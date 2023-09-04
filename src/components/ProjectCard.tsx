@@ -31,7 +31,7 @@ const ProjectCard: FC<ProjectCardProps> = ({ project: { name, github, live, tech
             <img 
               src={imageURL}
               alt={name}
-              className='w-[85%] translate-y-8 md:translate-y-16 object-cover rounded-t-lg'
+              className='w-[85%] translate-y-8 md:translate-y-12 object-cover rounded-t-lg'
             />
           </motion.div>
         </div>

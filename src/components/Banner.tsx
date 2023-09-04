@@ -16,7 +16,7 @@ const Banner = () => {
         </Reveal>
         <Reveal>
           <p className="w-full md:w-3/4 text-base sm:text-lg font-extralight">
-            Hello! I'm Shrideep, and I'm great at making websites. I've used T3, MERN, GraphQL, and Figma for more than 2 years. I've worked with 2 startups too! Let's make your website awesome!
+            Greetings! I specialize in crafting exceptional websites with 2 years of experience using T3, MERN, GraphQL, and Figma. I've partnered with startups to create amazing online experiences. Ready to elevate your site?
           </p>
         </Reveal>
         <Reveal>

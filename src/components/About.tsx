@@ -20,22 +20,22 @@ const About = () => {
           <div className="lg:col-span-2 space-y-4">
             <Reveal>
               <p className="text-base sm:text-lg font-extralight">
-                Hey! I'm Shrideep – the wizard behind the web. I've been on a wild 2-year journey, cooking up digital magic with T3, MERN, GraphQL, and even a dash of Figma. Imagine turning your web ideas into pure enchantment – that's my gig!
+                I'm Shrideep, a web developer from Karnataka, India. My journey in web development revolves around dedicating my energy to crafting one fantastic project at a time. It's not about quantity; it's about quality.
               </p>
             </Reveal>
             <Reveal>
               <p className="text-base sm:text-lg font-extralight">
-                But here's the twist – I'm not just about code. I've teamed up with startups, tackling challenges like a fearless explorer. Think of me as your tech treasure hunter, ready to crack the code to success.
+                While my project list may not be extensive, it's because I choose to invest time and effort in making each project truly shine. In my spare moments, I'm an avid explorer of new technologies and an enthusiast for tackling coding challenges.
               </p>
             </Reveal>
             <Reveal>
               <p className="text-base sm:text-lg font-extralight">
-                What's my ultimate quest? Crafting websites that feel like home. Whether it's designing front-end awesomeness or conjuring up a sturdy back-end fortress, I'm all in.
+                Residing in the vibrant state of Karnataka, I draw inspiration from its rich culture and the dynamic tech landscape. I firmly believe in continuous learning and growth.
               </p>
             </Reveal>
             <Reveal>
               <p className="text-base sm:text-lg font-extralight">
-                Here's the secret sauce: I sprinkle every project with creativity and a keen eye for detail. It's like adding a touch of fairy dust to each line of code! Together, let's embark on a web adventure and make your digital dreams a reality. Ready to dive into the magic?
+                Join me on this journey as I wholeheartedly dedicate myself to crafting meaningful web solutions, one project at a time. Let's explore the limitless possibilities together.
               </p>
             </Reveal>
             <Reveal>
