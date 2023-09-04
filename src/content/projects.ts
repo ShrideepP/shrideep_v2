@@ -8,7 +8,7 @@ const data = [
     name: "Journey Genie",
     github: "https://github.com/ShrideepP/journey_genie",
     live: "https://journeygenie.vercel.app/",
-    tech: "Next JS - Node JS - Tailwind CSS - TypeScript",
+    tech: "Next JS 13 - Node JS - Tailwind CSS - TypeScript",
     about: "Journey Genie is a travel destination discovery platform that empowers users to explore the world based on their preferences.",
     imageURL: journeyGenie,
   },
