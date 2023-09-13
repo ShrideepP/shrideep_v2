@@ -1,5 +1,6 @@
 import journeyGenie from "../assets/journey_genie.png";
 import portfolioV1 from "../assets/portfolio_v1.png";
+import quixy from "../assets/quixy.png";
 import wheelGame from "../assets/wheel_game.png";
 
 const data = [
@@ -23,6 +24,15 @@ const data = [
   },
   {
     id: 3,
+    name: "Quiz Application",
+    github: "https://github.com/ShrideepP/quiz_application",
+    live: "https://github.com/ShrideepP/quiz_application",
+    tech: "React Native - Expo",
+    about: "This app allows users to create, edit, and take quizzes with ease. It integrates with Supabase for database functionality.",
+    imageURL: quixy,
+  },
+  {
+    id: 4,
     name: "Wheel Game",
     github: "https://github.com/ShrideepP/wheel-game",
     live: "https://wheel-game-eight.vercel.app/",
